@@ -1,0 +1,22 @@
+
+.darkBG {
+  background: #999;
+}
+
+.darkerBG {
+  background: #666;
+}
+
+.darkestBG {
+  background: #333;
+}
+
+/* Universal Styles */
+
+html, body {
+  font-family: "Work Sans", sans-serif;
+  font-size: 14px;
+  /* margin: 0 auto; */
+  background-color: rgb(255,242,242);
+
+}
